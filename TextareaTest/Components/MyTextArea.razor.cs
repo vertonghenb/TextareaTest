@@ -13,7 +13,7 @@ namespace TextareaTest.Components
             copyElement = new RenderFragment(b =>
             {
                 b.OpenElement(1, "div");
-                b.AddContent(2, (MarkupString)Value.Replace("\n", "<br/>"));
+                b.AddContent(2, (MarkupString)Value);
                 b.CloseElement();
             });
         }
