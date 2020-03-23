@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextareaTest", "TextareaTest\TextareaTest.csproj", "{DAB0807E-95DA-4EB4-B0EF-D95971EB5AF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAB0807E-95DA-4EB4-B0EF-D95971EB5AF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAB0807E-95DA-4EB4-B0EF-D95971EB5AF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAB0807E-95DA-4EB4-B0EF-D95971EB5AF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAB0807E-95DA-4EB4-B0EF-D95971EB5AF7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7050F3EB-7A85-407A-A783-4A208F7A227A}
+	EndGlobalSection
+EndGlobal
